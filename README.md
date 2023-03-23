@@ -38,12 +38,19 @@
         <a href = "#frontend"><li>🖌️ Frontend</li></a>
         <a href = "#misc"><li>✨ Misc</li></a>
         <a href = "#testing"><li>🎬 Testing</li></a>
-    </ul>        
+    </ul>    
+    <a href = "#design-decisions"><li>Design Decisons</li></a>    
+    <ul>
+        <a href = "#design-decisions-frontend"><li>Design Decisions for the Frontend</li></a>
+        <a href = "#design-decisions-backend"><li>Design Decisions for the Backend</li></a>
+        <a href = "#design-decisions-database"><li>Design Decisions for the Database</li></a>
+    </ul>
     <a href = "#installation"><li>🧰 Installation + Running</li></a>
     <ul>
         <a href = "#docker-setup"><li>Docker Set Up</li></a>
         <a href = "#local"><li>Local Set Up</li></a>
     </ul>
+    
 
 
 </ul>
@@ -89,13 +96,13 @@ This project was built by:
 
 <h1 id = "project-management">🛣️ Project Management</h1>
 
-The Project Management for this application is documented in the [tempus wiki](https://github.com/tempus-app/wiki/wiki)
+The Project Management for this application is documented in the [Tempus II wiki](https://github.com/tempus-app/Tempus-II-Wiki/wiki)
 
-Sprint Planning was done through [github projects](https://github.com/orgs/tempus-app/projects/1)
+Sprint Planning was done through [Jira](https://tempest2.atlassian.net/jira/software/c/projects/T2/boards/1/backlog?view=detail&selectedIssue=T2-4&issueLimit=100)
 
 <h1 id = "ui/ux">🎨 UI/UX Design</h1>
 
-The Design System, along with the mockups built using figma can be viewed on the [wiki](https://github.com/tempus-app/wiki/wiki)
+The Design System, along with the mockups built using figma can be viewed on the [wiki](https://github.com/tempus-app/Tempus-II-Wiki)
 
 <h1 id = "technical">🧠 Technical Details</h1>
 
@@ -176,6 +183,14 @@ Currently, only backend unit tests are implemented in main. More indepth discuss
 - `npm run test:api:unit`: runs all backend unit test for the repo (smallest scale)
 
 - `npm run test-unit:client`: runs all frontend unit tests for the repo (TODO)
+
+<h1 id = "design-decisions">Design decisions</h1>
+
+<h2 id = "design-decisions-frontend">Design decisions for the Frontend</h2>
+
+<h2 id = "design-decisions-backend">Design decisions for the Backend</h2>
+
+<h2 id = "design-decisions-database">Design decisions for the Database</h2>
 
 <h1 id = "installation">🧰 Installation + Running</h1>
 
