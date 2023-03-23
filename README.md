@@ -21,9 +21,9 @@
     <a href = "#contributers"><li>❤️ Contributors</li></a>
     <a href = "#project-management"><li>🛣️ Project Management</li></a>
     <a href = "#ui/ux"><li>🎨 UI/UX Design</li></a>
-    <a href = "#technical"><li>🧠 Technical Details
+    <a href = "#technical"><li>🧠 Technical Details </li></a>
     <ul>
-        <a href = "#tech-stack"><li>🔨 Tech Stack Overview
+        <a href = "#tech-stack"><li>🔨 Tech Stack Overview </li></a>
         <ul>
             <a href = "#postgres"><li>PostgreSQL</li></a>
             <a href = "#nest"><li>NestJs (TypeScript)</li></a>
@@ -56,6 +56,7 @@ Tempus is an application built for CAL & Associates, an enterprise resource mana
 Tempus aims to smoothen this process by allowing resources to build profiles within the application, and for CAL to invite, manage, review and assign a resource to CAL's Client projects.
 
 <h2 id = "core">⚙️ Core Features</h2>
+<hr>
 
 <h3 id = "phase1">🌗 Phase 1 (Jan-April 2023)</h3>
 
@@ -100,6 +101,7 @@ The Design System, along with the mockups built using figma can be viewed on the
 <h1 id = "technical">🧠 Technical Details</h1>
 
 <h2 id = "tech-stack">🔨 Tech Stack Overview</h2>
+<hr>
 
 <p float="center" align="center">
 <img src="./docs/screenshots/assets/angular%20logo.png" width="120" height="120" style="{text-align:center}">
@@ -116,7 +118,7 @@ The Design System, along with the mockups built using figma can be viewed on the
 </p>
 
 <h3 id = "postgres">PostgreSQL</h3>
-<hr>
+
 
 PostgreSQL was used as the database, as the data we were dealing with was structured, and there were many relationships between the entities. Learn more about [PostgreSQL](https://www.postgresql.org).
 
@@ -137,30 +139,36 @@ NX was used to build our monorepo project, as it helps generate libraries, compo
 Docker is used to containerize the application so it is easier to run and deploy. Learn more about [Docker](https://angular.io).
 
 <h2 id = "file-structure">📁 File Structure</h2>
+<hr>
 
 An in-depth guide to understanding Tempus vile strucutre is located [here](/docs/FileStructure.md).
 
 <h2 id = "contributing">📝 Contributing</h2>
+<hr>
 
 Contributions to the [backend](/docs/backend/Contributing.md) and the [frontend](/docs/frontend/Contributing.md) can be found in their own respective sections with the docs/ directory. Please follow the [following guide](docs/misc/RepoContributing.md).
 
 <h2 id = 'database'>💼 Database</h2>
-
+<hr>
 Information about the tempus database, and datastore can be found [here](/docs/backend/database.md).
 
 <h2 id = 'backend'>🔧 Backend</h2>
+<hr>
 
 Information about the tempus backend,its functionalities, architecutre, and how to contribute can be found [here](/docs/backend/).
 
 <h2 id = "frontend">🖌️ Frontend</h2>
+<hr>
 
 Information about the tempus client,its functionalities, how to contribute, can be found [here](/docs/frontend/).
 
 <h2 id = "misc">✨ Misc</h2>
+<hr>
 
 Misc information about the tempus repo, and contribution can be found [here](/docs/misc/).
 
 <h2 id = "testing">🎬 Testing</h2>
+<hr>
 
 Currently, only backend unit tests are implemented in main. More indepth discussion about the testing strategy can be found in the backend, and frontend (TODO) directories. Use the following commands to run tests:
 
@@ -171,6 +179,7 @@ Currently, only backend unit tests are implemented in main. More indepth discuss
 - `npm run test-unit:client`: runs all frontend unit tests for the repo (TODO)
 
 <h1 id = "installation">🧰 Installation + Running</h1>
+<hr>
 
 Docker can be used to install and run the application. While docker does heavily smoothen set up, however, it does take longer to build, load and will consume more of your CPU power.
 
