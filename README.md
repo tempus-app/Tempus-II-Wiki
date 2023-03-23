@@ -81,12 +81,11 @@ Tempus aims to smoothen this process by allowing resources to build profiles wit
 
 This project was built by:
 
-- [Afrah Ali](https://github.com/aali179)
-- [Aman Riat](https://github.com/AmanRiat1)
-- [Gabriel Granata](https://github.com/gabrielgranata)
-- [Georges Chamoun](https://github.com/GCham5)
-- [Mustafa Ali](https://github.com/MustafaAli789)
-- [Ruwani De Alwis](https://github.com/ruwanidealwis)
+- [Ovais Azeem](https://github.com/Ovais09)
+- [Ilyas Hassan](https://github.com/IlyasHassan)
+- [Alexander Choukeir](https://github.com/alexchoukeir)
+- [Zayd Ghazal](https://github.com/Zayood)
+- [Hened Saade](https://github.com/henedsaade)
 
 <h1 id = "project-management">🛣️ Project Management</h1>
 
