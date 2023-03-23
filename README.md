@@ -94,12 +94,13 @@ This project was built by:
 - [Zayd Ghazal](https://github.com/Zayood)
 - [Hened Saade](https://github.com/henedsaade)
 
-<h1 id = "project-management">🛣️ Project Management</h1>
+<h1 id = "project-management">🛣️ Project Management/Project Inital Overview</h1>
 
 The Project Management for this application is documented in the [Tempus II wiki](https://github.com/tempus-app/Tempus-II-Wiki/wiki)
 
 Sprint Planning was done through [Jira](https://tempest2.atlassian.net/jira/software/c/projects/T2/boards/1/backlog?view=detail&selectedIssue=T2-4&issueLimit=100)
 
+The project initial overview can be found here [Tempus II wiki](https://github.com/tempus-app/Tempus-II-Wiki/wiki/Team-Organization-and-Project-Outline)
 <h1 id = "ui/ux">🎨 UI/UX Design</h1>
 
 The Design System, along with the mockups built using figma can be viewed on the [wiki](https://github.com/tempus-app/Tempus-II-Wiki)
