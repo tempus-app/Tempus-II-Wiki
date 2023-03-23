@@ -1,4 +1,16 @@
 
+<style>
+ul {
+  list-style: none;
+}
+ul li:before {
+  content: "\2022";
+  color: black;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+}
+</style>
 
 <p align="center">
 
@@ -7,12 +19,13 @@
 
 <h1 id = "tempusII">Tempus II </h1>
 
-# Table Of Contents
+
 
 <ul>
     <a href = "#tempusII"><li>Tempus II</li></a>
 </ul>
 
+# Table Of Contents
 - [Table Of Contents](#table-of-contents)
 - [🎯 Motivation \& Project Description](#-motivation--project-description)
   - [⚙️ Core Features](#️-core-features)
