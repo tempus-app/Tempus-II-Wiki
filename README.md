@@ -201,6 +201,7 @@ Currently, only backend unit tests are implemented in main. More indepth discuss
 <h2 id = "design-decisions-backend">Design decisions for the Backend</h2>
 
 <h2 id = "design-decisions-database">Design decisions for the Database</h2>
+
 - Difficulty with ER diagram design
 - Decided to have an entity for the timesheet and a seperate entity for each day of the timesheet period
   
