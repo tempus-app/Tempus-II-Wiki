@@ -105,6 +105,8 @@ This project was built by:
 
 <h1 id = "project-management">🛣️ Project Management/Project Inital Overview</h1>
 
+Current version of the timesheet feature can be found in the feature-api/timesheet branch. We have not merged it into main as of this moment
+
 The Project Management for this application is documented in the [Tempus II wiki](https://github.com/tempus-app/Tempus-II-Wiki/wiki)
 
 Sprint Planning was done through [Jira](https://tempest2.atlassian.net/jira/software/c/projects/T2/boards/1/backlog?view=detail&selectedIssue=T2-4&issueLimit=100)
