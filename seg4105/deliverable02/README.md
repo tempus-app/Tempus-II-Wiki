@@ -5,7 +5,7 @@ Submission: Deliverable 2
 Team members: 
 * Hened Saade (300111592)
 * Alexander Choukeir (300121777)
-* Zayd Ghazal (300122270)
+* Zayd Ghazal (300112270)
 * Ilyas Hassan (300119831)
 
 Winning pitch: Ilyas's pitch
