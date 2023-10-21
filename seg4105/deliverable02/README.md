@@ -27,12 +27,12 @@ Detailed Discussions:
     * Henned's Pitch: We discussed whether her pitch was useful enough for the client considering it was never brought up by him
     * Alex's Pitch: We discussed the lack of efficiency of Alex's approach
     * Zayd's Pitch: We discussed the lack of options for users regarding alternatives to email if those stopped working
-* Discussed which feature is more pressing to implement based on the client’s requirements for the project
+* Discussed which feature is more pressing to implement based on the client’s requirements for the project:
     * Alex's was "nice to have" according to the client but not pressing
     * Henned's was not mentioned by the client
     * Zayd's was "nice to have" according to the client, but not mandatory
     * Ilyas's pitch was the only one that was stated to be necessary by the client
-* Answered any questions and concerns during the pitches
+* Answered any questions and concerns regarding the pitches:
     * Zayd's Pitch: We discussed the potential issue of users being bombarded with notifications and dicussed potential solutions
     * Ilyas's Pitch: We discussed potential security concerns regarding classified information being viewed by other users, also discussed the lack of detail in the pitch
     * Henned's Pitch:
