@@ -17,7 +17,7 @@ General Overview of our meeting:
 * Each team member presented their pitch one by one
 * Discussed the workload of each features and how we would tackle the development and implementation of the features
 * Discussed the feasibility of each pitch
-* Came to a decisions based on a vote
+* Came to a decision based on a vote
 * Each team member stated their reasoning for their choice
 * Ilyas's pitch won by majority vote (3-1)
 
