@@ -8,7 +8,7 @@ Team members:
 * Zayd Ghazal (300122270)
 * Ilyas Hassan (300119831)
 
-Winning pitch: Ilyas' pitch
+Winning pitch: Ilyas's pitch
 
 Meeting minutes:
 
