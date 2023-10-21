@@ -35,8 +35,9 @@ Detailed Discussions:
 * Answered any questions and concerns regarding the pitches:
     * Zayd's Pitch: We discussed the potential issue of users being bombarded with notifications and dicussed potential solutions
     * Ilyas's Pitch: We discussed potential security concerns regarding classified information being viewed by other users, also discussed the lack of detail in the pitch
-    * Henned's Pitch:
-    * Alex's Pitch:
+    * Henned's Pitch: We discussed the usefulness of her pitch but it was brought up that clients always want to know how much they spend and if we can make it easier for them to visualize their costs they will be happier. We also asked about examples of when employees need resources and the answer was that sometimes contracted employees could need some paid softwares available to them to complete the work. Other example is having the appropriate office space for contracted employees to come in.
+Would resources come from the client only or anything is allowed?
+    * Alex's Pitch: The question that was raised was if it really important for us to have this feature, since employees will usually email their boss when they need time off and so they'll know already when they see the empty timesheets. But we figured it was still useful to keep the supervisor in the loop before time off is taken.
 * Based on these discussions, we chose Ilyas's pitch as the winner for the following reasons:
     * Our client indicated to us that this feature was of the utmost importance
     * It fit the 6 week timeline the best and felt the most feasible
