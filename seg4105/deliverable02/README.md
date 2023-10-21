@@ -33,7 +33,7 @@ Detailed Discussions:
     * Zayd's was "nice to have" according to the client, but not mandatory
     * Ilyas's pitch was the only one that was stated to be necessary by the client
 * Answered any questions and concerns regarding the pitches:
-    * Zayd's Pitch: We discussed the potential issue of users being bombarded with notifications and dicussed potential solutions
+    * Zayd's Pitch: We discussed the potential issue of users being bombarded with notifications and dicussed potential solutions (like allowing the user to adjust their notification settings)
     * Ilyas's Pitch: We discussed potential security concerns regarding classified information being viewed by other users, also discussed the lack of detail in the pitch
     * Henned's Pitch: We discussed the usefulness of her pitch but it was brought up that clients always want to know how much they spend and if we can make it easier for them to visualize their costs they will be happier. We also asked about examples of when employees need resources and the answer was that sometimes contracted employees could need some paid softwares available to them to complete the work. Other example is having the appropriate office space for contracted employees to come in.
 Would resources come from the client only or anything is allowed?
