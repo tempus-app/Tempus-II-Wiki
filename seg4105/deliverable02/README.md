@@ -18,4 +18,4 @@ Meeting minutes:
 * Discuss the changes needed for the winning pitch
 * Answer any questions and concerns during the pitches
 
-Changes made to the winning pitch will be highlighted in blue text in the PDF file. 
+Changes made to the winning pitch will be highlighted in blue text in the PDF file located in this folder. 
